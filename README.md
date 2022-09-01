@@ -1,4 +1,4 @@
-# Hi there! :wave:
+# はじめまして! :wave:
 
 
 
