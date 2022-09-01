@@ -19,7 +19,7 @@ Just an average self-taught programmer.
 <a href="https://www.hackerrank.com/jbarry302">
   <img align="left" alt="hr_logo" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
-<a href="[https://www.hackerrank.com/jbarry302](https://leetcode.com/jbarry302/)">
+<a href="https://leetcode.com/jbarry302">
   <img align="left" alt="lc_logo" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />
 </a>
 
