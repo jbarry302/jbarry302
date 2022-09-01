@@ -10,7 +10,7 @@ Just an average self-taught programmer.
 ### Timeline
 **April 2021 - December 2021** &emsp;_[Zerobstacle Technologies](https://github.com/Zerobstacle) (Native Android Front-end Developer)_ </br>
 **December 2021 - April 2021** &emsp;_Idle (Self-study)_ </br>
-**May 2022 - Present** &emsp;&emsp;&emsp;&emsp;&ensp;_Freelancing (Native Ionic-React Developer)_ </br>
+**May 2022 - Present** &emsp;&emsp;&emsp;&emsp;&ensp;_Freelancing (Ionic-React Developer)_ </br>
 
 
 
