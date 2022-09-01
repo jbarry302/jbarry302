@@ -57,10 +57,15 @@ Just an average self-taught programmer.
 </a>
 </br>
 
+<!-- </br></br>
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500%" height="500" />
+</br></br></br></br></br></br></br></br></br></br></br> -->
 
 
-</br>
-</br>
+<!-- </br></br></br> -->
+</br></br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/>
+</br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
+</br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
