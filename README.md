@@ -63,7 +63,8 @@ Just an average self-taught programmer.
 
 <!-- </br></br></br> -->
 </br></br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/>
+<!-- img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/ -->
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,css,firebase,html,react,ts,vscode,py&theme=light)](https://skillicons.dev)
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
 </br></br>
