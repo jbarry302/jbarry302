@@ -67,7 +67,7 @@ Just an average self-taught programmer.
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,react,ts,py&theme=light)](https://skillicons.dev)
 </br>
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,firebase,vscode,spring&theme=light)](https://skillicons.dev)
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
 </br></br>
