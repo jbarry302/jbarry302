@@ -54,7 +54,6 @@ Just an average self-taught programmer.
 <a href="https://t.me/jbarry302">
   <img align="left" alt="tg_logo" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />
 </a>
-</br>
 
 <!-- </br></br>
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500%" height="500" />
@@ -62,9 +61,13 @@ Just an average self-taught programmer.
 
 
 <!-- </br></br></br> -->
-</br></br></br>
+</br></br>
 <!-- img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/ -->
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,css,firebase,html,react,ts,vscode,py&theme=light)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,react,ts,py&theme=light)](https://skillicons.dev)
+</br>
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,vscode&theme=light)](https://skillicons.dev)
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
 </br></br>
