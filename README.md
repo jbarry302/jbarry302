@@ -7,4 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=dark"/>
