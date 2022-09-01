@@ -4,10 +4,12 @@
 
 
 ### **About**
+Just an average self-taught programmer.
 
-I am James Barry M. Almerez an average self-taught programmer. My journey started on 2020 where I got more interested in studying programming and tech stuffs during my free time because of the COVID pandemic and also I thought it would be a good idea to start studying in advance as I was an incoming freshmen college in Computer Science at that time. After 3 months of studying independently I finally got to work as a trainee at [Zerobstacle Technologies](https://github.com/Zerobstacle) where I discovered my strengths and weaknesses as a developer.
+<!-- I am James Barry M. Almerez an average self-taught programmer. My journey started on 2020 where I got more interested in studying programming and tech stuffs during my free time because of the COVID pandemic and also I thought it would be a good idea to start studying in advance as I was an incoming freshmen college in Computer Science at that time. After 3 months of studying independently I finally got to work as a trainee at [Zerobstacle Technologies](https://github.com/Zerobstacle) where I discovered my strengths and weaknesses as a developer. -->
+
 ### Timeline
-**April 2021 - December 2021** &emsp;_Zerobstacle Technologies (Native Android Front-end Developer)_ </br>
+**April 2021 - December 2021** &emsp;_[Zerobstacle Technologies](https://github.com/Zerobstacle) (Native Android Front-end Developer)_ </br>
 **December 2021 - April 2021** &emsp;_Idle (Self-study)_ </br>
 **May 2022 - Present** &emsp;&emsp;&emsp;&emsp;&ensp;_Freelancing (Native React Front-end Developer)_ </br>
 
@@ -24,7 +26,6 @@ I am James Barry M. Almerez an average self-taught programmer. My journey starte
 </br>
 
 ### **Communities**
-
 <a href="https://discordapp.com/users/751763555535290369">
   <img align="left" alt="dc_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
 </a>
