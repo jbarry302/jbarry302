@@ -1,9 +1,8 @@
-# Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
+# Hi there :wave:
 
 
 
-
-### **About**
+### About ![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
 Just an average self-taught programmer.
 
 <!-- I am James Barry M. Almerez an average self-taught programmer. My journey started on 2020 where I got more interested in studying programming and tech stuffs during my free time because of the COVID pandemic and also I thought it would be a good idea to start studying in advance as I was an incoming freshmen college in Computer Science at that time. After 3 months of studying independently I finally got to work as a trainee at [Zerobstacle Technologies](https://github.com/Zerobstacle) where I discovered my strengths and weaknesses as a developer. -->
