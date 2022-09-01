@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.facebook.com/ehdecosmicat">
-  <img align="left" alt="fb_logo" width="22px" src="![image](https://user-images.githubusercontent.com/80423880/187891803-b4044a11-f2c9-49ec-81f3-072597c1e3c9.png)" />
+  <img align="left" alt="fb_logo" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
 </a>
 
 
