@@ -14,13 +14,14 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
 #             filename: metrics.plugin.anilist.svg
-            filename: metrics.plugin.anilist.characters.svg
+#             filename: metrics.plugin.anilist.characters.svg
+            filename: metrics.plugin.anilist.manga.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_anilist_user: zukashishifu
             plugin_anilist: yes
             plugin_anilist_medias: anime
 #             plugin_anilist_sections: favorites, watching
-            plugin_anilist_sections: characters
-#             plugin_anilist_limit: 1
+            plugin_anilist_sections: favorites
+            plugin_anilist_limit: 5
             plugin_anilist_limit_characters: 20
