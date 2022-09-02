@@ -1,17 +1,18 @@
+# src: https://github.com/marketplace/actions/anilist-readme-workflow
+name: AniList readme workflow
 on:
-  schedule:
-    # every week
-    - cron: 0 0 * * 0
-
-  workflow_dispatch:
+    schedule:
+        # Runs every hour
+        - cron: "0 * * * *"
+    workflow_dispatch:
 
 jobs:
-  update_animes:
-    runs-on: ubuntu-latest
-    name: Updates README Anime List
-    steps:
-      - uses: actions/checkout@v2
-      - uses: glup3/anilist-animes-action@v1.1.0
-        with:
-          ANILIST_USERNAME: 'jbarry302'
-          HEADER_TITLE: "Zukashishifu's cool awesome Animes"
+    update-readme-with-anilist:
+        name: Update this repo's README with latest AniList activites
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: AniList readme workflow
+              uses: pxseu/anilist-readme@v1.2.1
+              with:
+                  user_id: zukashishifu
