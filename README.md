@@ -4,19 +4,8 @@
 Just an average self-taught programmer.
 </br>
 
-# 🌸 My recent AniList activity
 
-<!-- ANILIST_ACTIVITY:start -->
 
-<!-- ANILIST_ACTIVITY:end -->
-
-<!-- ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.anilist.svg) -->
-
-<details open>
-  <summary>Indepth analysis (clone and analyze repositories)</summary>
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
-</details>
 
 <!-- I am James Barry M. Almerez an average self-taught programmer. My journey started on 2020 where I got more interested in studying programming and tech stuffs during my free time because of the COVID pandemic and also I thought it would be a good idea to start studying in advance as I was an incoming freshmen college in Computer Science at that time. After 3 months of studying independently I finally got to work as a trainee at [Zerobstacle Technologies](https://github.com/Zerobstacle) where I discovered my strengths and weaknesses as a developer. -->
 
@@ -25,6 +14,12 @@ Just an average self-taught programmer.
 **December 2021 - April 2021** &emsp;_Idle (Self-study)_ </br>
 **May 2022 - Present** &emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;_Freelancing (Ionic React Developer)_ </br>
 
+<details open>
+  <summary>Indepth analysis (clone and analyze repositories)</summary>
+  <img src="https://github.com/jbarry302/jbarry302/blob/main/github-metrics.svg" alt=""></img>
+</details>
+
+<!-- ![Metrics](/github-metrics.svg) -->
 
 
 ### **Hobbies**
