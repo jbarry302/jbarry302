@@ -20,7 +20,7 @@ jobs:
             base: ""
             plugin_anilist_user: zukashishifu
             plugin_anilist: yes
-            plugin_anilist_medias: anime
+            plugin_anilist_medias: manga
 #             plugin_anilist_sections: favorites, watching
             plugin_anilist_sections: favorites
             plugin_anilist_limit: 5
