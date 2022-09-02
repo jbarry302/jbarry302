@@ -23,22 +23,33 @@ Just an average self-taught programmer.
 
 
 ### **Hobbies**
-<a href="https://www.hackerrank.com/jbarry302">
+<!-- <a href="https://www.hackerrank.com/jbarry302">
   <img align="left" alt="hr_logo" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 <a href="https://leetcode.com/jbarry302">
   <img align="left" alt="lc_logo" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />
-</a>
-</br></br>
+</a> -->
+I watch tons of animes and read mangas during my free time
+
 
 <details open>
-<summary>For waifus simp</summary>
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img>
+<summary>Anime Series:heart:</summary>
+<img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.svg" alt=""></img>
+</details>
+<details open>
+<summary>Wifus:sparkling_heart:</summary>
+<img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img>
+</details>
+<details open>
+<summary>Manga list:star:</summary>
+<img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img>
 </details>
 
 </br>
 
 ### **Community**
+I do participate in online communities to express my feelings and toughts, and to socialize with others
+</br></br>
 <a href="https://discordapp.com/users/751763555535290369">
   <img align="left" alt="dc_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
 </a>
@@ -54,10 +65,11 @@ Just an average self-taught programmer.
 <a href="https://twitter.com/zukashishifu">
   <img align="left" alt="tw_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
 </a>
-</br>
+</br></br>
 
 ### **Communicate**
-
+For business inquiries you may reach me through these media platforms
+<!-- </br></br> -->
 <a href="https://mail.google.com/mail/u/?authuser=jbarry302@gmail.com">
   <img align="left" alt="gm_logo" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
