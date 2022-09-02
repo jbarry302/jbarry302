@@ -6,6 +6,12 @@ Just an average self-taught programmer.
 
 # My Animes / Mangas
 
+<!-- ANILIST_ANIME:START -->
+<!-- ANILIST_ANIME:END -->
+
+<!-- ANILIST_MANGA:START -->
+<!-- ANILIST_MANGA:END -->
+
 <!-- ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.anilist.svg) -->
 
