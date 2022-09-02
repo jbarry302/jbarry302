@@ -1,9 +1,12 @@
 # はじめまして! :wave:
 
-![Metrics](/github-metrics.svg)
-
 ### About ![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
 Just an average self-taught programmer.
+</br>
+
+![Metrics](/github-metrics.svg)
+
+<details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
 
 <!-- I am James Barry M. Almerez an average self-taught programmer. My journey started on 2020 where I got more interested in studying programming and tech stuffs during my free time because of the COVID pandemic and also I thought it would be a good idea to start studying in advance as I was an incoming freshmen college in Computer Science at that time. After 3 months of studying independently I finally got to work as a trainee at [Zerobstacle Technologies](https://github.com/Zerobstacle) where I discovered my strengths and weaknesses as a developer. -->
 
@@ -21,6 +24,12 @@ Just an average self-taught programmer.
 <a href="https://leetcode.com/jbarry302">
   <img align="left" alt="lc_logo" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />
 </a>
+</br></br></br>
+
+<details open>
+<summary>For waifus simp</summary>
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img>
+</details>
 
 </br>
 
