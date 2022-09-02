@@ -4,8 +4,10 @@
 Just an average self-taught programmer.
 </br>
 
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.anilist.svg)
+# My Animes / Mangas
+
+<!-- ![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.anilist.svg) -->
 
 <details open>
   <summary>Indepth analysis (clone and analyze repositories)</summary>
