@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: glup3/anilist-animes-action@v1.1.0
         with:
-          ANILIST_USERNAME: 'zukashishifu'
+          ANILIST_USERNAME: 'jbarry302'
           HEADER_TITLE: "Zukashishifu's cool awesome Animes"
