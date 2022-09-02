@@ -1,6 +1,6 @@
 # はじめまして! :wave:
 
-
+![Metrics](/github-metrics.svg)
 
 ### About ![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
 Just an average self-taught programmer.
