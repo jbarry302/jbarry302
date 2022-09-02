@@ -13,7 +13,8 @@ jobs:
         - name: Favorites anime and currently watching
           uses: lowlighter/metrics@latest
           with:
-            filename: metrics.plugin.anilist.svg
+#             filename: metrics.plugin.anilist.svg
+            filename: metrics.plugin.anilist.characters.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_anilist_user: zukashishifu
