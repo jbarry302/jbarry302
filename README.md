@@ -4,13 +4,11 @@
 Just an average self-taught programmer.
 </br>
 
-# My Animes / Mangas
+# 🌸 My recent AniList activity
 
-<!-- ANILIST_ANIME:START -->
-<!-- ANILIST_ANIME:END -->
+<!-- ANILIST_ACTIVITY:start -->
 
-<!-- ANILIST_MANGA:START -->
-<!-- ANILIST_MANGA:END -->
+<!-- ANILIST_ACTIVITY:end -->
 
 <!-- ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.anilist.svg) -->
