@@ -24,7 +24,7 @@ Just an average self-taught programmer.
 
 </br>
 
-### **Communities**
+### **Community**
 <a href="https://discordapp.com/users/751763555535290369">
   <img align="left" alt="dc_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
 </a>
@@ -42,7 +42,7 @@ Just an average self-taught programmer.
 </a>
 </br>
 
-### **Communicate with me**
+### **Communicate**
 
 <a href="https://mail.google.com/mail/u/?authuser=jbarry302@gmail.com">
   <img align="left" alt="gm_logo" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
@@ -62,12 +62,14 @@ Just an average self-taught programmer.
 
 <!-- </br></br></br> -->
 </br></br>
-<!-- img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/ -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbarry302&langs_count=8)](https://github.com/jbarry302/github-readme-stats) -->
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,react,ts,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,react,ts,js,py&theme=light)](https://skillicons.dev)
 </br>
 ### Tools/Technologies
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,firebase,vscode,spring&theme=light)](https://skillicons.dev)
+</br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/>
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
 </br></br>
