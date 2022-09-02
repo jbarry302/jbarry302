@@ -33,16 +33,16 @@ I watch tons of animes and read mangas during my free time
 
 
 <details open>
-<summary>Anime Series:heart:</summary>
-<img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.svg" alt=""></img>
+  <summary>Anime Series:heart:</summary>
+  <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.svg" alt=""></img>
 </details>
 <details open>
-<summary>Wifus:sparkling_heart:</summary>
-<img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img>
+  <summary>Wifus:sparkling_heart:</summary>
+  <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img>
 </details>
 <details open>
-<summary>Manga list:star:</summary>
-<img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img>
+  <summary>Manga list:star:</summary>
+  <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img>
 </details>
 
 </br>
