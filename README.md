@@ -18,9 +18,6 @@ Just an average self-taught programmer.
   <img src="https://github.com/jbarry302/jbarry302/blob/main/github-metrics.svg" alt=""></img>
 </details>
 
-<!-- ![Metrics](/github-metrics.svg) -->
-
-
 ### **Hobbies**
 <!-- <a href="https://www.hackerrank.com/jbarry302">
   <img align="left" alt="hr_logo" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
@@ -30,20 +27,18 @@ Just an average self-taught programmer.
 </a> -->
 Aside from coding, I also watch animes and read mangas during my free time
 
-
 <details open>
   <summary>Anime Series:heart:</summary>
   <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.svg" alt=""></img>
 </details>
 <details open>
-  <summary>Wifus:sparkling_heart:</summary>
+  <summary>Waifus:sparkling_heart:</summary>
   <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img>
 </details>
 <details open>
   <summary>Manga list:star:</summary>
   <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img>
 </details>
-
 </br>
 
 ### **Community**
@@ -80,7 +75,6 @@ For business inquiries you may reach me through these media platforms
   <img align="left" alt="tg_logo" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />
 </a>
 
-
 </br></br>
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,react,ts,js,py&theme=light)](https://skillicons.dev)
@@ -92,6 +86,4 @@ For business inquiries you may reach me through these media platforms
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
 </br></br>
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
--->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/> -->
