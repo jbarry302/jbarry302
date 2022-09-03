@@ -42,7 +42,7 @@ Aside from coding, I also watch animes and read mangas during my free time
 </br>
 
 ### **Community**
-I also participate in online communities to share my thoughts and to socialize with others
+I also participate in online communities to share my thoughts and socialize with others
 </br></br>
 <a href="https://discordapp.com/users/751763555535290369">
   <img align="left" alt="dc_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
