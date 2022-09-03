@@ -8,7 +8,7 @@ jobs:
   fetch_waifus:
       runs-on: ubuntu-latest
       steps:
-        - name: Favorite Character (ctgy: female)
+        - name: Favorite Characters
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.anilist.characters.svg
