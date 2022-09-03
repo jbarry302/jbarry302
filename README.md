@@ -1,6 +1,6 @@
 # はじめまして! :wave:
 
-![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
+![](https://visitor-badge.glitch.me/badge?page_id=jbarry302) ![](https://img.shields.io/github/commit-activity/m/jbarry302/jbarry302?color=green) ![](https://img.shields.io/github/followers/jbarry302?style=social)
 
 ### About 
 Just an average self-taught programmer.
