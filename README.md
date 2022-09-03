@@ -1,11 +1,10 @@
 # はじめまして! :wave:
 
-### About ![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
+![](https://visitor-badge.glitch.me/badge?page_id=jbarry302)
+
+### About 
 Just an average self-taught programmer.
 </br>
-
-
-
 
 <!-- I am James Barry M. Almerez an average self-taught programmer. My journey started on 2020 where I got more interested in studying programming and tech stuffs during my free time because of the COVID pandemic and also I thought it would be a good idea to start studying in advance as I was an incoming freshmen college in Computer Science at that time. After 3 months of studying independently I finally got to work as a trainee at [Zerobstacle Technologies](https://github.com/Zerobstacle) where I discovered my strengths and weaknesses as a developer. -->
 
@@ -29,7 +28,7 @@ Just an average self-taught programmer.
 <a href="https://leetcode.com/jbarry302">
   <img align="left" alt="lc_logo" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />
 </a> -->
-I watch tons of animes and read mangas during my free time
+Aside from coding, I also watch animes and read mangas during my free time
 
 
 <details open>
@@ -48,7 +47,7 @@ I watch tons of animes and read mangas during my free time
 </br>
 
 ### **Community**
-I do participate in online communities to express my feelings and toughts, and to socialize with others
+I also participate in online communities to share my toughts and to socialize with others
 </br></br>
 <a href="https://discordapp.com/users/751763555535290369">
   <img align="left" alt="dc_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
@@ -59,13 +58,13 @@ I do participate in online communities to express my feelings and toughts, and t
 <a href="https://www.reddit.com/user/Potential-Ad2691">
   <img align="left" alt="rd_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-512.png" />
 </a>
-<a href="https://www.facebook.com/ehdecosmicat/">
-  <img align="left" alt="fb_logo" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />
-</a>
 <a href="https://twitter.com/zukashishifu">
   <img align="left" alt="tw_logo" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
 </a>
-</br></br>
+<!-- <a href="https://www.facebook.com/ehdecosmicat/">
+  <img align="left" alt="fb_logo" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />
+</a> -->
+</br>
 
 ### **Communicate**
 For business inquiries you may reach me through these media platforms
@@ -81,14 +80,8 @@ For business inquiries you may reach me through these media platforms
   <img align="left" alt="tg_logo" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />
 </a>
 
-<!-- </br></br>
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500%" height="500" />
-</br></br></br></br></br></br></br></br></br></br></br> -->
 
-
-<!-- </br></br></br> -->
 </br></br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbarry302&langs_count=8)](https://github.com/jbarry302/github-readme-stats) -->
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,react,ts,js,py&theme=light)](https://skillicons.dev)
 </br>
