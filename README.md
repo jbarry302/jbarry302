@@ -28,15 +28,15 @@ Just an average self-taught programmer.
 Aside from coding, I also watch animes and read mangas during my free time
 
 <details open>
-  <summary>Anime Series:heart:</summary>
+  <summary>Anime Series</summary>
   <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.svg" alt=""></img>
 </details>
 <details open>
-  <summary>Waifus:sparkling_heart:</summary>
+  <summary>Waifus for simp</summary>
   <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img>
 </details>
 <details open>
-  <summary>Manga list:star:</summary>
+  <summary>Manga list</summary>
   <img src="https://github.com/jbarry302/jbarry302/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img>
 </details>
 </br>
