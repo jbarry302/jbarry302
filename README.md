@@ -82,8 +82,8 @@ For business inquiries you may reach me through these media platforms
 ### Tools/Technologies
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,firebase,vscode,spring&theme=light)](https://skillicons.dev)
 </br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/>
+<!-- img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarry302&layout=compact&theme=shades-of-purple"/>
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/>
-</br></br>
+</br></br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jbarry302&show_icons=true&theme=shades-of-purple"/> -->
