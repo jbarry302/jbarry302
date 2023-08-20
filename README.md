@@ -65,7 +65,7 @@ I also participate in online communities to share my thoughts and socialize with
 ### **Communicate**
 For business inquiries you may reach me through these media platforms
 <!-- </br></br> -->
-<a href="https://mail.google.com/mail/u/?authuser=jbarry302@gmail.com">
+<a href="mailto:jbarry302@gmail.com">
   <img align="left" alt="gm_logo" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/james-barry-almerez-032880204">
